@@ -1,0 +1,4 @@
+requests
+arrow
+python-dotenv
+xlwt
